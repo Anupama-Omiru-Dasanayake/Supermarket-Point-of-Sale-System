@@ -1,12 +1,12 @@
-# 🛒 Supermarket – Point of Sale (POS) System
+# Supermarket – Point of Sale (POS) System
 
-## 📌 Project Overview
+## Project Overview
 The **ABC Supermarket Point of Sale (POS) System** is a **Python-based, menu-driven console application** developed as part of the **DOC333 – Introduction to Programming Principles** module in IIT Foundation Programme.  
 This system manages customer registrations, order placements, sales calculations, and viewing of customer and order details.
 
 ---
 
-## 📄 Description
+## Description
 This project simulates a real-world **Point of Sale (POS) system** for a supermarket.  
 It is designed to improve efficiency by automating customer and sales management tasks.
 
@@ -21,14 +21,14 @@ The application is developed using **Python 3.x** and stores data using in-memor
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Programming Language:** Python 3.x  
 - **Interface:** Command Line Interface (CLI)  
 - **Data Storage:** Python Lists (No database)
 
 ---
 
-## ✨ Features
+## Features
 - ✔️ Customer registration with unique Customer IDs  
 - ✔️ Age validation (18 years or older)  
 - ✔️ Order placement for registered customers  
@@ -41,7 +41,7 @@ The application is developed using **Python 3.x** and stores data using in-memor
 
 ---
 
-## 🏪 Branch Codes
+## Branch Codes
 | Branch Name  | Branch Code |
 |-------------|-------------|
 | Colombo     | B001        |
@@ -51,7 +51,7 @@ The application is developed using **Python 3.x** and stores data using in-memor
 
 ---
 
-## 📋 System Assumptions
+## System Assumptions
 - Customers must be **18 years or older**
 - Customer ID format: `C001`
 - Order ID format: `OD01`
@@ -65,7 +65,7 @@ The application is developed using **Python 3.x** and stores data using in-memor
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 ABC-Supermarket-Point-of-Sale-System/
 │
@@ -73,7 +73,7 @@ ABC-Supermarket-Point-of-Sale-System/
 ├── DOC 333 Report.pdf       # Project documentation
 └── README.md                # Project README
 ```
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 - Python **3.x** installed on your system
@@ -95,7 +95,7 @@ ABC-Supermarket-Point-of-Sale-System/
 - View sales
 - View customer and order details
 
-## 👨‍💻 Author
+## Author
 
 Anupama Omiru (D.M.A.O. Dasanayake)
 📧 Email: omiru.dasanayake@gmail.com
