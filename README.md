@@ -1,4 +1,4 @@
-# 🛒 ABC Supermarket – Point of Sale (POS) System
+# 🛒 Supermarket – Point of Sale (POS) System
 
 ## 📌 Project Overview
 The **ABC Supermarket Point of Sale (POS) System** is a **Python-based, menu-driven console application** developed as part of the **DOC333 – Introduction to Programming Principles** module in IIT Foundation Programme.  
