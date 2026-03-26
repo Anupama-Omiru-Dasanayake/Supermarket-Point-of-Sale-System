@@ -98,4 +98,4 @@ ABC-Supermarket-Point-of-Sale-System/
 ## 👨‍💻 Author
 
 Anupama Omiru (D.M.A.O. Dasanayake)
-📧 Email: mr.dasanayake@gmail.com
+📧 Email: omiru.dasanayake@gmail.com
